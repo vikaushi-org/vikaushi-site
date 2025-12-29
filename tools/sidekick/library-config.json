@@ -2,8 +2,8 @@
   "blocks": {
     "data": [
       {
-        "name": "tabs",
-        "path": "/tools/sidekick/blocks/tabs"
+        "name": "Tabs",
+        "path": "/tools/sidekick/blocks/tabs.plain.html"
       }
     ]
   }
